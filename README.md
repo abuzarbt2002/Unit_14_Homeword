@@ -3,7 +3,7 @@ Deep Learning
 
 ### Which model has a lower loss?
 The Stock predictor closing price model loss is much less than the fng model
-Closing price is about 0.3%, whereas fng has about 7.7%
+* Closing price is about 0.3%, whereas fng has about 7.7%
 
 ### Which model tracks the actual values better over time?
 Closing price model tracks values much better than the fng, and this is illustrated in the plot
